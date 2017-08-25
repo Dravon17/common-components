@@ -1,0 +1,1 @@
+A simple footer for webpages with copyright and a navbar.
